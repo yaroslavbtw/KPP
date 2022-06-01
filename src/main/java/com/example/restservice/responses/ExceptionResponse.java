@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.example.restservice.responses;
 
 public class ExceptionResponse{
 

@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.example.restservice.responses;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.util.Optional;

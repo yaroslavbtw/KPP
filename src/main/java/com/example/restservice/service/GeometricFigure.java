@@ -1,8 +1,7 @@
-package com.example.restservice;
+package com.example.restservice.service;
 
-import com.example.restservice.MyLogger;
-import java.util.stream.Stream;
-import java.util.ArrayList;
+import com.example.restservice.logger.MyLogger;
+
 import java.util.List;
 
 

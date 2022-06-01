@@ -1,7 +1,7 @@
-package com.example.restservice;
+package com.example.restservice.Cache;
 
-import com.example.restservice.MyLogger;
-import com.example.restservice.GeometricFigure;
+import com.example.restservice.logger.MyLogger;
+import com.example.restservice.service.GeometricFigure;
 import java.util.HashMap;
 
 public class Cache {

@@ -1,6 +1,6 @@
-package com.example.restservice;
+package com.example.restservice.Controllers;
 
-import com.example.restservice.Counter;
+import com.example.restservice.Counter.Counter;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;

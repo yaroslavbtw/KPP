@@ -1,6 +1,7 @@
-package com.example.restservice;
+package com.example.restservice.advice;
 
 
+import com.example.restservice.responses.ExceptionResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;

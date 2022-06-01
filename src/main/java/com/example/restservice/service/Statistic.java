@@ -1,6 +1,8 @@
-package com.example.restservice;
+package com.example.restservice.service;
+import com.example.restservice.responses.StatisticResponse;
+import com.example.restservice.logger.MyLogger;
+
 import java.util.*;
-import java.util.function.BinaryOperator;
 
 public class Statistic {
 

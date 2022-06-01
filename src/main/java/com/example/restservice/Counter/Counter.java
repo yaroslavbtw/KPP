@@ -1,4 +1,6 @@
-package com.example.restservice;
+package com.example.restservice.Counter;
+import com.example.restservice.logger.MyLogger;
+
 import java.util.concurrent.Semaphore;
 
 public class Counter {
